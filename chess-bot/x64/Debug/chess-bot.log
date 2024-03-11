@@ -1,4 +1,6 @@
-﻿  ChessApp.cpp
-  ChessFrame.cpp
-  Generating Code...
+﻿  ChessFrame.cpp
+E:\repos\chess-bot\ChessFrame.cpp(369,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\repos\chess-bot\ChessFrame.cpp(370,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\repos\chess-bot\ChessFrame.cpp(371,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\repos\chess-bot\ChessFrame.cpp(391,34): warning C4305: 'initializing': truncation from 'double' to 'float'
   chess-bot.vcxproj -> E:\repos\chess-bot\x64\Debug\chess-bot.exe
